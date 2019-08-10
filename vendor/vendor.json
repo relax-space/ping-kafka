@@ -1,0 +1,19 @@
+{
+	"comment": "",
+	"ignore": "test",
+	"package": [
+		{
+			"checksumSHA1": "uYYPjGsqfCJ64dH8gKT4UsC5tfU=",
+			"path": "github.com/segmentio/kafka-go",
+			"revision": "46aa607838f84ad3512d7d2729bd59617b322688",
+			"revisionTime": "2019-08-06T23:06:08Z"
+		},
+		{
+			"checksumSHA1": "JGDT0mBs8CQLavGQyKqU1EJU4eY=",
+			"path": "github.com/segmentio/kafka-go/sasl",
+			"revision": "46aa607838f84ad3512d7d2729bd59617b322688",
+			"revisionTime": "2019-08-06T23:06:08Z"
+		}
+	],
+	"rootPath": "ping-kafka"
+}
